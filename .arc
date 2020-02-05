@@ -1,12 +1,11 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+wonder-e1k
+
+@static
 
 @http
 get /
+get /lorem/ipsum
 
 @tables
 data
